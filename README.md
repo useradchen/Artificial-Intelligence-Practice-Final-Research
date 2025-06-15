@@ -65,6 +65,33 @@ Highlights:
 - 🔊 Noisy or multi-speaker reference audio causes degraded output quality.
 - 🎯 Model's stability is sensitive to input data cleanliness.
 
+## 🚀 Usage Instructions
+
+To run the demo with our Gradio interface:
+
+1. **Clone the official IndexTTS repository**  
+   Download the original project from GitHub:
+   ```bash
+   git clone https://github.com/index-tts/index-tts.git
+   cd index-tts
+   ```
+
+2. **Place the demo script**  
+Copy our `gradio_for_demo.py` file into the `index-tts` folder.
+
+3. **Run the demo**  
+Execute the script to launch a Gradio-based web interface:
+```bash
+python gradio_for_demo.py
+```
+This interface allows you to:
+- Upload a reference audio sample.
+- Input text in either Chinese or English.
+- Generate synthesized speech in the style of the reference speaker.
+
+Make sure all required dependencies are installed as specified in the original `index-tts` repo.
+
+
 ## 📎 Citation
 
 If you refer to this project or use the data for your research, please cite:
