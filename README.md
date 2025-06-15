@@ -1,4 +1,4 @@
-# IndexTTS-Implementation-of-Artificial-Intelligence-Practice
+# Artificial Intelligence Practice Final Research
 ## IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 
 ## Overview
