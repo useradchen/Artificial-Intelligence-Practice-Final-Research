@@ -77,7 +77,7 @@ To run the demo with our Gradio interface:
    ```
 
 2. **Place the demo script**  
-Copy our `gradio_for_demo.py` file into the `index-tts` folder.
+Copy our [gradio_for_demo.py](gradio_for_demo/gradio_for_demo.py) file into the `index-tts` folder.
 
 3. **Run the demo**  
 Execute the script to launch a Gradio-based web interface:
